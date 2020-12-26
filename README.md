@@ -1,0 +1,2 @@
+# draughts
+Draughts scores
