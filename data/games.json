@@ -1,0 +1,22 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "name": "",
+            "date": "2020-12-26",
+            "description": "",
+            "players": [
+                {
+                    "name": "Alex",
+                    "colour": "brown",
+                    "winner": false
+                },
+                {
+                    "name": "Jon",
+                    "colour": "white",
+                    "winner": true
+                }
+            ]
+        }
+    ]
+}
